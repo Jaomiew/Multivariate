@@ -5,6 +5,6 @@
 .md => Markdown 
 [] square brackets
 ()parentheses
-![คำอธิบายรูป](ชื่อไฟล์รูป)
+![love](me)
 
 อธิบายการใช้งาน Google Colab ว่าหน้าที่ของเเต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
